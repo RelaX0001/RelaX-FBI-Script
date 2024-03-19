@@ -1,6 +1,6 @@
 # Açıksız RelaX-FBI-Script
 
-🟢 [Script İndirme Link](https://dosya.co/u8myu5yka6hz/RelaX_FBI_Script.rar.html) 🟢
+🟢 [Script İndirme Link](https://dosya.co/018fccj87bwa/RelaX_FBI_Script.rar.html) 🟢
 
 ## 🔍 〢 Gereksinimler
 〢 XAMPP (Sorguları Almak İçin Gerekli)
