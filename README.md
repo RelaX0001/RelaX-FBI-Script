@@ -4,7 +4,7 @@
 
 ## 🔍 〢 Gereksinimler
 〢 XAMPP (Sorguları Almak İçin Gerekli)
-- Xamp: https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16-installer.exe
+- [Xamp](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16-installer.exe)
 
 ## ⚙️ 〢 Kurulum Videosu
 - Gelecek
